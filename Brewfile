@@ -9,18 +9,25 @@ cask install appcleaner
 cask install bettertouchtool
 cask install cheatsheet
 cask install clamxav
+cask install cooviewer
 cask install dropbox
 cask install easysimbl
+cask install fairmount
 cask install flash-player
 cask install geekbench
 cask install google-earth
 cask install google-japanese-ime
 cask install handbrake
+cask install imageoptim
 cask install istat-menus
 cask install kobito
 cask install latexit
+cask install linein
 cask install mactracker
+cask install macwinzipper
+cask install maczip4win
 cask install mendeley-desktop
+cask install namebench
 cask install onyx
 cask install perian
 cask install qlcolorcode
@@ -28,19 +35,25 @@ cask install qlimagesize
 cask install qlmarkdown
 cask install qlstephen
 cask install quicklook-csv
+cask install reflector
 cask install rstudio
+cask install seashore
 cask install secrets
 cask install simplecap
 cask install skitch
+cask install skype
 cask install sophos-anti-virus-home-edition
 cask install sqlite-database-browser
+cask install teamviewer
 cask install teleport
 cask install the-unarchiver
+cask install tinkertool
 cask install todoist
 cask install tuxguitar
 cask install xmarks-safari
 cask install xquartz
 cask install xtrafinder
+cask install zotero
 
 ## caskroom/versions
 tap caskroom/versions
