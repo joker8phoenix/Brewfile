@@ -3,7 +3,6 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
-cask install adobe-reader
 cask install alfred
 cask install appcleaner
 cask install bettertouchtool
@@ -13,7 +12,6 @@ cask install easysimbl
 cask install flash-player
 cask install google-earth
 cask install google-japanese-ime
-cask install handbrake
 cask install istat-menus
 cask install kobito
 cask install latexit
