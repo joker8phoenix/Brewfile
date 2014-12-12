@@ -13,7 +13,7 @@ cask install cooviewer
 cask install dropbox
 cask install easysimbl
 cask install fairmount
-cask install flash-player
+# cask install flash-player
 cask install geekbench
 cask install google-earth
 cask install google-japanese-ime
@@ -117,7 +117,7 @@ install xz
 install zeromq
 
 # Below applications were installed by Cask,
-but not corresponding casks were found.
+# but not corresponding casks were found.
 
 #cask  install sqlite-database-browser (!)
 
