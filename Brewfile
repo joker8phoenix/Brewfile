@@ -1,3 +1,4 @@
+
 # tap repositories and their packages
 
 ## caskroom/cask
@@ -12,7 +13,7 @@ cask install cooviewer
 cask install dropbox
 cask install easysimbl
 cask install fairmount
-cask install flash-player
+#cask install flash-player
 cask install geekbench
 cask install google-earth
 cask install google-japanese-ime
@@ -36,7 +37,6 @@ cask install secrets
 cask install simplecap
 cask install skitch
 cask install sophos-anti-virus-home-edition
-cask install sqlite-database-browser
 cask install teamviewer
 cask install teleport
 cask install the-unarchiver
@@ -58,10 +58,6 @@ tap homebrew/science
 
 ## homebrew/versions
 tap homebrew/versions
-
-## rcmdnk/file
-# tap rcmdnk/file
-install rcmdnk/file/brew-file
 
 ## sanemat/font
 tap sanemat/font
@@ -107,8 +103,11 @@ install pbzip2
 install pixman
 install pkg-config
 install plantuml
+install pyenv
 install python
+install rcmdnk/file/brew-file
 install readline
 install sl
 install sqlite
 install xz
+
