@@ -60,8 +60,8 @@ tap homebrew/science
 tap homebrew/versions
 
 ## rcmdnk/file
-tap rcmdnk/file
-install brew-file
+# tap rcmdnk/file
+install rcmdnk/file/brew-file
 
 ## sanemat/font
 tap sanemat/font
