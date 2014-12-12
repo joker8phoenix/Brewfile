@@ -1,8 +1,9 @@
+
 # tap repositories and their packages
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask 
+install brew-cask
 cask install adobe-reader
 cask install alfred
 cask install appcleaner
@@ -60,7 +61,7 @@ tap homebrew/versions
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file 
+install brew-file
 
 ## sanemat/font
 tap sanemat/font
@@ -109,8 +110,6 @@ install pbzip2
 install pixman
 install pkg-config
 install plantuml
-install pyenv
-install python
 install readline
 install sl
 install sqlite
@@ -120,7 +119,7 @@ install zeromq
 # Below applications were installed by Cask,
 but not corresponding casks were found.
 
-#cask  install sqlite-database-browser (!) 
+#cask  install sqlite-database-browser (!)
 
 # App Store applications
 appstore Folders Factory
