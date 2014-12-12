@@ -1,9 +1,8 @@
-
 # tap repositories and their packages
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
+install brew-cask 
 cask install adobe-reader
 cask install alfred
 cask install appcleaner
@@ -13,7 +12,7 @@ cask install cooviewer
 cask install dropbox
 cask install easysimbl
 cask install fairmount
-#cask install flash-player
+cask install flash-player
 cask install geekbench
 cask install google-earth
 cask install google-japanese-ime
@@ -59,6 +58,10 @@ tap homebrew/science
 ## homebrew/versions
 tap homebrew/versions
 
+## rcmdnk/file
+tap rcmdnk/file
+install brew-file 
+
 ## sanemat/font
 tap sanemat/font
 
@@ -66,9 +69,11 @@ tap sanemat/font
 tap staticfloat/julia
 
 # Other Homebrew packages
+install autoconf
 install cairo
 install cloog
 install corkscrew
+install czmq
 install fontconfig
 install fontforge
 install freetype
@@ -91,6 +96,7 @@ install libdvdcss
 install libffi
 install libmpc
 install libpng
+install libsodium
 install libtiff
 install libtool
 install little-cms2
@@ -105,9 +111,31 @@ install pkg-config
 install plantuml
 install pyenv
 install python
-install rcmdnk/file/brew-file
 install readline
 install sl
 install sqlite
 install xz
+install zeromq
 
+# Below applications were installed by Cask,
+but not corresponding casks were found.
+
+#cask  install sqlite-database-browser (!) 
+
+# App Store applications
+appstore Folders Factory
+appstore Go2Shell
+appstore HardwareGrowler
+appstore iMovie
+appstore Inpaint
+appstore iPhoto
+appstore JPEGmini Lite
+appstore Keynote
+appstore Numbers
+appstore OmniGraphSketcher
+appstore Pages
+appstore Photos Duplicate Cleaner
+appstore Sparrow Lite
+appstore ToyViewer
+appstore Xcode
+appstore Yummy FTP Lite
