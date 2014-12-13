@@ -14,14 +14,20 @@ cask install dropbox
 cask install easysimbl
 cask install fairmount
 cask install geekbench
+cask install google-chrome
+cask install google-drive
 cask install google-earth
 cask install google-japanese-ime
 cask install handbrake
 cask install imageoptim
 cask install istat-menus
+cask install j
+cask install java
+cask install juliastudio
 cask install kobito
 cask install latexit
 cask install mactracker
+cask install macwinzipper
 cask install mendeley-desktop
 cask install namebench
 cask install onyx
@@ -34,14 +40,19 @@ cask install quicklook-csv
 cask install rstudio
 cask install secrets
 cask install simplecap
+cask install skim
 cask install skitch
 cask install sophos-anti-virus-home-edition
+cask install sourcetree
+cask install spyder
 cask install teamviewer
 cask install teleport
+cask install texshop
 cask install the-unarchiver
 cask install tinkertool
 cask install todoist
 cask install tuxguitar
+cask install twitterrific
 cask install xquartz
 cask install xtrafinder
 
@@ -109,30 +120,24 @@ install pbzip2
 install pixman
 install pkg-config
 install plantuml
+install python
 install readline
 install sl
 install sqlite
 install xz
 install zeromq
 
-# Below applications were installed by Cask,
-but not corresponding casks were found.
-
-#cask  install sqlite-database-browser (!)
-
 # App Store applications
 appstore Folders Factory
+appstore GarageBand
 appstore Go2Shell
 appstore HardwareGrowler
 appstore iMovie
-appstore Inpaint
 appstore iPhoto
-appstore JPEGmini Lite
 appstore Keynote
 appstore Numbers
 appstore OmniGraphSketcher
 appstore Pages
-appstore Photos Duplicate Cleaner
 appstore Sparrow Lite
 appstore ToyViewer
 appstore Xcode
