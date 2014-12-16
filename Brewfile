@@ -44,7 +44,6 @@ cask install skim
 cask install skitch
 cask install sophos-anti-virus-home-edition
 cask install sourcetree
-cask install spyder
 cask install teamviewer
 cask install teleport
 cask install texshop
@@ -52,7 +51,6 @@ cask install the-unarchiver
 cask install tinkertool
 cask install todoist
 cask install tuxguitar
-cask install twitterrific
 cask install xquartz
 cask install xtrafinder
 
@@ -129,15 +127,17 @@ install zeromq
 
 # App Store applications
 appstore Folders Factory
-appstore GarageBand
 appstore Go2Shell
 appstore HardwareGrowler
 appstore iMovie
+appstore Inpaint
 appstore iPhoto
+appstore JPEGmini Lite
 appstore Keynote
 appstore Numbers
 appstore OmniGraphSketcher
 appstore Pages
+appstore Photos Duplicate Cleaner
 appstore Sparrow Lite
 appstore ToyViewer
 appstore Xcode
