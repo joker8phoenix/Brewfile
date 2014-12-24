@@ -46,6 +46,7 @@ cask install skitch
 cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install spyder
+cask install sqlitebrowser
 cask install teamviewer
 cask install teleport
 cask install texshop
