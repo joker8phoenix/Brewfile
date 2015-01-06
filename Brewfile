@@ -43,6 +43,7 @@ cask install secrets
 cask install simplecap
 cask install skim
 cask install skitch
+cask install skype
 cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install spyder
