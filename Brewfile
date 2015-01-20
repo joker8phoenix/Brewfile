@@ -12,7 +12,7 @@ cask install cheatsheet
 cask install cooviewer
 cask install dropbox
 cask install easysimbl
-cask install fairmount
+cask install firefox
 cask install geekbench
 cask install google-chrome
 cask install google-drive
@@ -62,6 +62,10 @@ cask install xtrafinder
 ## caskroom/versions
 tap caskroom/versions
 cask install sublime-text3
+
+## homebrew/binary
+tap homebrew/binary
+install jad
 
 ## homebrew/dupes
 tap homebrew/dupes
@@ -129,6 +133,11 @@ install sl
 install sqlite
 install xz
 install zeromq
+
+# Below applications were installed by Cask,
+# but don't not have corresponding casks.
+
+#cask  install fairmount (!)
 
 # App Store applications
 appstore Folders Factory
