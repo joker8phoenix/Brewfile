@@ -9,6 +9,7 @@ cask install alfred
 cask install appcleaner
 cask install bettertouchtool
 cask install cheatsheet
+cask install clamxav
 cask install cooviewer
 cask install dropbox
 cask install easysimbl
@@ -69,6 +70,7 @@ install jad
 
 ## homebrew/dupes
 tap homebrew/dupes
+install apple-gcc42
 
 ## homebrew/science
 tap homebrew/science
@@ -128,16 +130,16 @@ install pixman
 install pkg-config
 install plantuml
 install python
+install qt
+install rbenv
+install rbenv-gem-rehash
+install rbenv-gemset
 install readline
+install ruby-build
 install sl
 install sqlite
 install xz
 install zeromq
-
-# Below applications were installed by Cask,
-# but don't not have corresponding casks.
-
-#cask  install fairmount (!)
 
 # App Store applications
 appstore Folders Factory
