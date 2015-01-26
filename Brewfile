@@ -14,6 +14,7 @@ cask install cooviewer
 cask install dropbox
 cask install easysimbl
 cask install firefox
+cask install flux
 cask install geekbench
 cask install google-chrome
 cask install google-drive
@@ -28,35 +29,30 @@ cask install java
 cask install juliastudio
 cask install kobito
 cask install latexit
+cask install mactex
 cask install mactracker
 cask install macwinzipper
 cask install mendeley-desktop
 cask install namebench
-cask install onyx
-cask install perian
 cask install qlcolorcode
 cask install qlimagesize
 cask install qlmarkdown
 cask install qlstephen
 cask install quicklook-csv
 cask install rstudio
-cask install secrets
 cask install simplecap
 cask install skim
 cask install skitch
 cask install skype
 cask install sophos-anti-virus-home-edition
 cask install sourcetree
-cask install spyder
 cask install sqlitebrowser
 cask install teamviewer
 cask install teleport
 cask install texshop
 cask install the-unarchiver
 cask install tinkertool
-cask install todoist
 cask install tuxguitar
-cask install twitterrific
 cask install xquartz
 cask install xtrafinder
 
@@ -150,9 +146,7 @@ appstore iMovie
 appstore iPhoto
 appstore Keynote
 appstore Numbers
-appstore OmniGraphSketcher
 appstore Pages
-appstore Sparrow Lite
 appstore ToyViewer
 appstore Xcode
 appstore Yummy FTP Lite
