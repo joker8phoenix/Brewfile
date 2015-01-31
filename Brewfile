@@ -44,7 +44,6 @@ cask install simplecap
 cask install skim
 cask install skitch
 cask install skype
-cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install sqlitebrowser
 cask install teamviewer
