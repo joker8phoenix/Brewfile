@@ -44,6 +44,7 @@ cask install simplecap
 cask install skim
 cask install skitch
 cask install skype
+cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install sqlitebrowser
 cask install teamviewer
@@ -137,9 +138,9 @@ install xz
 install zeromq
 
 # App Store applications
+appstore BitdefenderVirusScanner
 appstore Folders Factory
 appstore GarageBand
-appstore Go2Shell
 appstore HardwareGrowler
 appstore iMovie
 appstore iPhoto
