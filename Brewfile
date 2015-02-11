@@ -7,6 +7,7 @@ install brew-cask
 cask install adobe-reader
 cask install alfred
 cask install appcleaner
+cask install audacity
 cask install bettertouchtool
 cask install cheatsheet
 cask install clamxav
@@ -26,6 +27,7 @@ cask install imageoptim
 cask install istat-menus
 cask install j
 cask install java
+cask install javafx-scene-builder
 cask install juliastudio
 cask install kobito
 cask install latexit
@@ -116,6 +118,7 @@ install libsodium
 install libtiff
 install libtool
 install little-cms2
+install maven
 install mpfr
 install nkf
 install openssl
