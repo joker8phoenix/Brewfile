@@ -54,6 +54,7 @@ cask install tinkertool
 cask install tuxguitar
 cask install xquartz
 cask install xtrafinder
+cask install zotero
 
 ## caskroom/versions
 tap caskroom/versions
