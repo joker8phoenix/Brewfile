@@ -4,7 +4,6 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
-cask install adobe-reader
 cask install alfred
 cask install appcleaner
 cask install audacity
@@ -17,8 +16,6 @@ cask install easysimbl
 cask install firefox
 cask install flux
 cask install geekbench
-cask install google-chrome
-cask install google-drive
 cask install google-earth
 cask install google-japanese-ime
 cask install graphsketcher
@@ -33,7 +30,6 @@ cask install kobito
 cask install latexit
 cask install mactex
 cask install mactracker
-cask install macwinzipper
 cask install mendeley-desktop
 cask install namebench
 cask install qlcolorcode
@@ -52,7 +48,6 @@ cask install teamviewer
 cask install teleport
 cask install texshop
 cask install the-unarchiver
-cask install tinkertool
 cask install tuxguitar
 cask install xquartz
 cask install xtrafinder
@@ -93,7 +88,7 @@ install cloog
 install corkscrew
 install czmq
 install fontconfig
-install fontforge
+install fontforge --with-python
 install freetype
 install gcc
 install gdbm
@@ -144,12 +139,15 @@ install zeromq
 appstore BitdefenderVirusScanner
 appstore Folders Factory
 appstore GarageBand
+appstore Go2Shell
 appstore HardwareGrowler
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore LINE
 appstore Numbers
 appstore Pages
 appstore ToyViewer
+appstore Wallpapers
 appstore Xcode
 appstore Yummy FTP Lite
