@@ -4,6 +4,7 @@
 ## caskroom/cask
 tap caskroom/cask
 install brew-cask
+cask install adobe-reader
 cask install alfred
 cask install appcleaner
 cask install audacity
@@ -16,7 +17,9 @@ cask install easysimbl
 cask install firefox
 cask install flux
 cask install geekbench
+cask install google-chrome
 cask install google-drive
+cask install google-earth
 cask install google-japanese-ime
 cask install graphsketcher
 cask install handbrake
@@ -43,12 +46,14 @@ cask install simplecap
 cask install skim
 cask install skitch
 cask install skype
+cask install sophos-anti-virus-home-edition
 cask install sourcetree
 cask install sqlitebrowser
 cask install teamviewer
 cask install teleport
 cask install texshop
 cask install the-unarchiver
+cask install tinkertool
 cask install tuxguitar
 cask install xquartz
 cask install xtrafinder
