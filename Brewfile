@@ -16,6 +16,7 @@ cask install easysimbl
 cask install firefox
 cask install flux
 cask install geekbench
+cask install google-chrome
 cask install google-earth
 cask install google-japanese-ime
 cask install graphsketcher
