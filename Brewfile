@@ -92,7 +92,7 @@ install cloog
 install corkscrew
 install czmq
 install fontconfig
-install fontforge --with-python
+#install fontforge --with-python
 install freetype
 install gcc
 install gdbm
