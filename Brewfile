@@ -6,6 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install alfred
 cask install appcleaner
+cask install au-lab
 cask install audacity
 cask install bettertouchtool
 cask install cheatsheet
@@ -38,11 +39,13 @@ cask install qlimagesize
 cask install qlmarkdown
 cask install qlstephen
 cask install quicklook-csv
+cask install refresh-finder
 cask install rstudio
 cask install simplecap
 cask install skim
 cask install skitch
 cask install skype
+cask install soundflower
 cask install sourcetree
 cask install sqlitebrowser
 cask install teamviewer
