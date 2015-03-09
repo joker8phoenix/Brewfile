@@ -33,11 +33,13 @@ cask install mactex
 cask install mactracker
 cask install mendeley-desktop
 cask install namebench
+cask install onyx
 cask install qlcolorcode
 cask install qlimagesize
 cask install qlmarkdown
 cask install qlstephen
 cask install quicklook-csv
+cask install refresh-finder
 cask install rstudio
 cask install simplecap
 cask install skim
