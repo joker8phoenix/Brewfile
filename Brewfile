@@ -6,6 +6,7 @@ tap caskroom/cask
 install brew-cask
 cask install alfred
 cask install appcleaner
+cask install au-lab
 cask install audacity
 cask install bettertouchtool
 cask install cheatsheet
@@ -45,6 +46,7 @@ cask install simplecap
 cask install skim
 cask install skitch
 cask install skype
+cask install soundflower
 cask install sourcetree
 cask install sqlitebrowser
 cask install teamviewer
@@ -91,7 +93,7 @@ install cloog
 install corkscrew
 install czmq
 install fontconfig
-install fontforge
+#install fontforge --with-python
 install freetype
 install gcc
 install gdbm
@@ -142,12 +144,15 @@ install zeromq
 appstore BitdefenderVirusScanner
 appstore Folders Factory
 appstore GarageBand
+appstore Go2Shell
 appstore HardwareGrowler
 appstore iMovie
 appstore iPhoto
 appstore Keynote
+appstore LINE
 appstore Numbers
 appstore Pages
 appstore ToyViewer
+appstore Wallpapers
 appstore Xcode
 appstore Yummy FTP Lite
