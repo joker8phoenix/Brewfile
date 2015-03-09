@@ -88,12 +88,12 @@ tap staticfloat/julia
 
 # Other Homebrew packages
 install autoconf
+install automake
 install cairo
 install cloog
 install corkscrew
 install czmq
 install fontconfig
-#install fontforge --with-python
 install freetype
 install gcc
 install gdbm
