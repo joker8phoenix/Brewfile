@@ -94,6 +94,7 @@ install cloog
 install corkscrew
 install czmq
 install fontconfig
+install fontforge
 install freetype
 install gcc
 install gdbm
@@ -144,15 +145,12 @@ install zeromq
 appstore BitdefenderVirusScanner
 appstore Folders Factory
 appstore GarageBand
-appstore Go2Shell
 appstore HardwareGrowler
 appstore iMovie
 appstore iPhoto
 appstore Keynote
-appstore LINE
 appstore Numbers
 appstore Pages
 appstore ToyViewer
-appstore Wallpapers
 appstore Xcode
 appstore Yummy FTP Lite
