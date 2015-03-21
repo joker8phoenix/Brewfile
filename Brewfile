@@ -62,6 +62,10 @@ cask install zotero
 tap caskroom/versions
 cask install sublime-text3
 
+## homebrew/apache
+tap homebrew/apache
+install mod_wsgi
+
 ## homebrew/binary
 tap homebrew/binary
 install jad
@@ -96,10 +100,14 @@ install czmq
 install fontconfig
 install fontforge
 install freetype
+install freexl
 install gcc
+install gdal
 install gdbm
+install geos
 install gettext
 install ghostscript
+install giflib
 install git
 install glib
 install gmp
@@ -111,14 +119,20 @@ install imagemagick
 install isl
 install jbig2dec
 install jpeg
+install json-c
 install libdvdcss
 install libffi
+install libgeotiff
+install liblwgeom
 install libmpc
 install libpng
 install libsodium
+install libspatialite
 install libtiff
 install libtool
+install libxml2
 install little-cms2
+install lzlib
 install maven
 install mpfr
 install nkf
@@ -129,6 +143,7 @@ install pbzip2
 install pixman
 install pkg-config
 install plantuml
+install proj
 install python
 install qt
 install rbenv
@@ -145,14 +160,12 @@ install zeromq
 appstore BitdefenderVirusScanner
 appstore Folders Factory
 appstore GarageBand
-appstore Go2Shell
 appstore HardwareGrowler
+appstore iMovie
 appstore iPhoto
 appstore Keynote
-appstore LINE
 appstore Numbers
 appstore Pages
 appstore ToyViewer
-appstore Wallpapers
 appstore Xcode
 appstore Yummy FTP Lite
