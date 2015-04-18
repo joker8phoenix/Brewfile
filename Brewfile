@@ -54,6 +54,7 @@ cask install teleport
 cask install texshop
 cask install the-unarchiver
 cask install tuxguitar
+cask install vlc
 cask install xquartz
 cask install xtrafinder
 cask install zotero
@@ -80,6 +81,10 @@ tap homebrew/science
 ## homebrew/versions
 tap homebrew/versions
 
+## homebrew/x11
+tap homebrew/x11
+install xpdf
+
 ## rcmdnk/file
 tap rcmdnk/file
 install brew-file
@@ -97,6 +102,7 @@ install cairo
 install cloog
 install corkscrew
 install czmq
+install dpkg
 install fontconfig
 install fontforge
 install freetype
@@ -111,6 +117,7 @@ install giflib
 install git
 install glib
 install gmp
+install gnu-tar
 install gobject-introspection
 install graphviz
 install harfbuzz
@@ -120,6 +127,7 @@ install isl
 install jbig2dec
 install jpeg
 install json-c
+install lesstif
 install libdvdcss
 install libffi
 install libgeotiff
@@ -153,6 +161,7 @@ install readline
 install ruby-build
 install sl
 install sqlite
+install unoconv
 install xz
 install zeromq
 
@@ -166,6 +175,7 @@ appstore iPhoto
 appstore Keynote
 appstore Numbers
 appstore Pages
+appstore PDF Reader Pro Free
 appstore ToyViewer
 appstore Xcode
 appstore Yummy FTP Lite
