@@ -9,9 +9,11 @@ cask install appcleaner
 cask install au-lab
 cask install audacity
 cask install bettertouchtool
+cask install caffeine
 cask install cheatsheet
 cask install clamxav
 cask install cooviewer
+cask install daisydisk
 cask install dropbox
 cask install easysimbl
 cask install firefox
@@ -24,6 +26,7 @@ cask install graphsketcher
 cask install handbrake
 cask install imageoptim
 cask install istat-menus
+cask install iterm2
 cask install j
 cask install java
 cask install javafx-scene-builder
@@ -169,14 +172,13 @@ install zeromq
 appstore BitdefenderVirusScanner
 appstore Folders Factory
 appstore GarageBand
-appstore Go2Shell
 appstore HardwareGrowler
+appstore iMovie
 appstore iPhoto
 appstore Keynote
-appstore LINE
 appstore Numbers
 appstore Pages
+appstore PDF Reader Pro Free
 appstore ToyViewer
-appstore Wallpapers
 appstore Xcode
 appstore Yummy FTP Lite
