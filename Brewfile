@@ -9,6 +9,7 @@ cask install appcleaner
 cask install au-lab
 cask install audacity
 cask install bettertouchtool
+cask install betterzipql
 cask install caffeine
 cask install cheatsheet
 cask install clamxav
@@ -41,8 +42,10 @@ cask install onyx
 cask install qlcolorcode
 cask install qlimagesize
 cask install qlmarkdown
+cask install qlprettypatch
 cask install qlstephen
 cask install quicklook-csv
+cask install readcube
 cask install refresh-finder
 cask install rstudio
 cask install simplecap
@@ -51,13 +54,16 @@ cask install skitch
 cask install skype
 cask install soundflower
 cask install sourcetree
+cask install spectacle
 cask install sqlitebrowser
+cask install suspicious-package
 cask install teamviewer
 cask install teleport
 cask install texshop
 cask install the-unarchiver
 cask install tuxguitar
 cask install vlc
+cask install webpquicklook
 cask install xquartz
 cask install xtrafinder
 cask install zotero
