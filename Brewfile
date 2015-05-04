@@ -17,7 +17,9 @@ cask install cooviewer
 cask install daisydisk
 cask install dropbox
 cask install easysimbl
+cask install fing
 cask install firefox
+cask install fluid
 cask install flux
 cask install geekbench
 cask install google-chrome
