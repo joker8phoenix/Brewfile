@@ -13,6 +13,7 @@ cask caffeine
 cask cheatsheet
 cask clamxav
 cask cooviewer
+cask copy
 cask daisydisk
 cask dropbox
 cask easysimbl
