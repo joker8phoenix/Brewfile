@@ -3,88 +3,87 @@
 
 ## caskroom/cask
 tap caskroom/cask
-install brew-cask
-cask install alfred
-cask install appcleaner
-cask install au-lab
-cask install audacity
-cask install bettertouchtool
-cask install betterzipql
-cask install caffeine
-cask install cheatsheet
-cask install clamxav
-cask install cooviewer
-cask install daisydisk
-cask install dropbox
-cask install easysimbl
-cask install fing
-cask install firefox
-cask install fluid
-cask install flux
-cask install geekbench
-cask install google-chrome
-cask install google-earth
-cask install google-japanese-ime
-cask install graphsketcher
-cask install handbrake
-cask install imageoptim
-cask install istat-menus
-cask install iterm2
-cask install j
-cask install java
-cask install javafx-scene-builder
-cask install juliastudio
-cask install kobito
-cask install latexit
-cask install mactex
-cask install mactracker
-cask install mendeley-desktop
-cask install namebench
-cask install onyx
-cask install qlcolorcode
-cask install qlimagesize
-cask install qlmarkdown
-cask install qlprettypatch
-cask install qlstephen
-cask install quicklook-csv
-cask install readcube
-cask install refresh-finder
-cask install rstudio
-cask install simplecap
-cask install skim
-cask install skitch
-cask install skype
-cask install soundflower
-cask install sourcetree
-cask install spectacle
-cask install sqlitebrowser
-cask install suspicious-package
-cask install teamviewer
-cask install teleport
-cask install texshop
-cask install the-unarchiver
-cask install tuxguitar
-cask install vlc
-cask install webpquicklook
-cask install xquartz
-cask install xtrafinder
-cask install zotero
+brew brew-cask
+cask alfred
+cask appcleaner
+cask au-lab
+cask bettertouchtool
+cask betterzipql
+cask caffeine
+cask cheatsheet
+cask clamxav
+cask cooviewer
+cask daisydisk
+cask dropbox
+cask easysimbl
+cask fing
+cask firefox
+cask fluid
+cask flux
+cask geekbench
+cask google-chrome
+cask google-earth
+cask google-japanese-ime
+cask graphsketcher
+cask handbrake
+cask imageoptim
+cask istat-menus
+cask iterm2
+cask j
+cask java
+cask javafx-scene-builder
+cask juliastudio
+cask kobito
+cask latexit
+cask mactex
+cask mactracker
+cask mendeley-desktop
+cask namebench
+cask onyx
+cask qlcolorcode
+cask qlimagesize
+cask qlmarkdown
+cask qlprettypatch
+cask qlstephen
+cask quicklook-csv
+cask readcube
+cask refresh-finder
+cask rstudio
+cask simplecap
+cask skim
+cask skitch
+cask skype
+cask soundflower
+cask sourcetree
+cask spectacle
+cask sqlitebrowser
+cask suspicious-package
+cask teamviewer
+cask teleport
+cask texshop
+cask the-unarchiver
+cask tuxguitar
+cask vlc
+cask webpquicklook
+cask xquartz
+cask xtrafinder
+cask zotero
 
 ## caskroom/versions
 tap caskroom/versions
-cask install sublime-text3
+cask sublime-text3
 
 ## homebrew/apache
 tap homebrew/apache
-install mod_wsgi
+brew mod_wsgi
 
 ## homebrew/binary
 tap homebrew/binary
-install jad
+brew jad
 
 ## homebrew/dupes
 tap homebrew/dupes
-install apple-gcc42
+brew apple-gcc42
 
 ## homebrew/science
 tap homebrew/science
@@ -94,11 +93,11 @@ tap homebrew/versions
 
 ## homebrew/x11
 tap homebrew/x11
-install xpdf
+brew xpdf
 
 ## rcmdnk/file
 tap rcmdnk/file
-install brew-file
+brew brew-file
 
 ## sanemat/font
 tap sanemat/font
@@ -107,74 +106,74 @@ tap sanemat/font
 tap staticfloat/julia
 
 # Other Homebrew packages
-install autoconf
-install automake
-install cairo
-install cloog
-install corkscrew
-install czmq
-install dpkg
-install fontconfig
-install fontforge
-install freetype
-install freexl
-install gcc
-install gdal
-install gdbm
-install geos
-install gettext
-install ghostscript
-install giflib
-install git
-install glib
-install gmp
-install gnu-tar
-install gobject-introspection
-install graphviz
-install harfbuzz
-install icu4c
-install imagemagick
-install isl
-install jbig2dec
-install jpeg
-install json-c
-install lesstif
-install libdvdcss
-install libffi
-install libgeotiff
-install liblwgeom
-install libmpc
-install libpng
-install libsodium
-install libspatialite
-install libtiff
-install libtool
-install libxml2
-install little-cms2
-install lzlib
-install maven
-install mpfr
-install nkf
-install openssl
-install ossp-uuid
-install pango
-install pbzip2
-install pixman
-install pkg-config
-install plantuml
-install proj
-install python
-install qt
-install rbenv
-install rbenv-gem-rehash
-install rbenv-gemset
-install readline
-install ruby-build
-install sl
-install sqlite
-install unoconv
-install xz
-install zeromq
+brew autoconf
+brew automake
+brew cairo
+brew cloog
+brew corkscrew
+brew czmq
+brew dpkg
+brew fontconfig
+brew fontforge
+brew freetype
+brew freexl
+brew gcc
+brew gdal
+brew gdbm
+brew geos
+brew gettext
+brew ghostscript
+brew giflib
+brew git
+brew glib
+brew gmp
+brew gnu-tar
+brew gobject-introspection
+brew graphviz
+brew harfbuzz
+brew icu4c
+brew imagemagick
+brew isl
+brew jbig2dec
+brew jpeg
+brew json-c
+brew lesstif
+brew libdvdcss
+brew libffi
+brew libgeotiff
+brew liblwgeom
+brew libmpc
+brew libpng
+brew libsodium
+brew libspatialite
+brew libtiff
+brew libtool
+brew libxml2
+brew little-cms2
+brew lzlib
+brew maven
+brew mpfr
+brew nkf
+brew openssl
+brew ossp-uuid
+brew pango
+brew pbzip2
+brew pixman
+brew pkg-config
+brew plantuml
+brew proj
+brew python
+brew qt
+brew rbenv
+brew rbenv-gem-rehash
+brew rbenv-gemset
+brew readline
+brew ruby-build
+brew sl
+brew sqlite
+brew unoconv
+brew xz
+brew zeromq
 
 # App Store applications
 appstore BitdefenderVirusScanner
@@ -187,6 +186,7 @@ appstore Keynote
 appstore Numbers
 appstore Pages
 appstore PDF Reader Pro Free
+appstore SketchyDraw
 appstore ToyViewer
 appstore Xcode
 appstore Yummy FTP Lite
